@@ -1,7 +1,7 @@
 # ElasticSearch
 
 
-# Technolohies
+Technologies
 
 * Java 11
 * Spring Boot
